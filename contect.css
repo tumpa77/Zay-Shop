@@ -1,0 +1,341 @@
+.na{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: black;
+  }
+  
+  .za{
+    font-size: 15px;
+    color: aliceblue;
+  }
+
+  .navbar-right a{
+    color: aliceblue;
+  }
+
+
+/* =========================2nd nav start========================== */
+
+.navbar{
+    background-color: white;
+   display: flex;
+   align-items: center;
+   padding: 15px;
+}
+
+.navbar a {
+    align-items: center;
+    color: rgb(76, 184, 59);
+    text-decoration: none;
+    justify-content: space-around;
+    padding: 10px;
+    
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  
+  }
+  
+  .zay {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 4, 10);
+    margin-left: 70px;
+  }
+  
+  #ab {
+  
+    color: black;
+    
+  
+  }
+  
+  #cd {
+    color: black;
+  
+  }
+  
+  #ef {
+    color: black;
+    
+  }
+  
+  #gh {
+    color: black;
+  
+  
+  }
+  
+  .nav-links{
+    list-style: none;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+  }
+  
+  .nav-links li{
+    margin-left: 30px;
+  
+  }
+  
+  .nav-links a{
+      color: rgb(11, 12, 12);
+      text-decoration: none;
+      font-size: 18px;
+      padding: 10px 10px;
+  }
+
+/* ================2nd nasection===============v end============= */
+
+
+
+
+/* ===============================Contect us============== */
+
+#con{
+    background-color: aliceblue;
+    padding: 70px;
+}
+
+#contect{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+#lorem{
+    text-align: center;
+    font-size: 20px;
+}
+
+.lorem{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.hht{
+    background-color: rgb(236, 226, 226);
+    padding: 100px;
+}
+
+
+.hht i{
+    margin-left: 600px;
+    color: blue;
+    font-size: 40px;
+}
+
+
+.hht button{
+    font-size: 20px;
+   
+}
+
+
+/* ========================location============= */
+
+
+#on{
+   
+    padding:150px ;
+}
+
+#big{
+    width: 400px;
+    height: 40px;
+    border: 2px solid#ccc;
+   
+}
+
+.big{
+    width: 900px;
+    height: 40px;
+    border: 2px solid#ccc;
+   
+    
+}
+
+.name{
+    font-size: 20px;
+}
+
+#btn{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 15px;
+   border-radius: 5px;
+}
+
+
+
+
+
+textarea {
+  width: 100%;
+  max-width: 900px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
+  font-size: 16px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+textarea:focus {
+  border-color: #4a90e2;
+  outline: none;
+}
+
+
+
+/* ===============footer================= */
+
+
+
+zay{
+    color: rgb(12, 217, 43);
+  }
+  
+  footer {
+    background-color: #312c2c;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .zay{
+    color: rgb(12, 217, 43);
+    font-size: 30px;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-column {
+    flex: 1;
+    margin: 10px;
+    min-width: 250px;
+  }
+  
+  .footer-column h4 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .footer-column p, .footer-column ul {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .footer-column ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .footer-column ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-column ul li a:hover {
+    color: #f0a500;
+  }
+  
+  .social-icons a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover {
+    color: #3dc164;
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    font-size: 14px;
+    border-top: 1px solid #444;
+    padding-top: 20px;
+  }
+  
+  .footer-column li{
+    text-decoration: none;
+    }
+  
+    h4{
+      font-size: 40px;
+    }
+  
+  
+    .navbar{
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  #di{
+      background-color: rgb(60, 58, 58);
+      color: aliceblue;
+      padding: 20px;
+  }
+  
+  
+  
+  .tt{
+      padding: 10px;
+      background-color: rgb(62, 57, 57);
+      border: none;
+  }
+  
+  .footer-bottom{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  
+  .nnn{
+    background-color: #56d07b;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+  }
+  
+  .footer-bottom i{
+    justify-content: space-around;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+
+.footer-bottom i:hover{
+background-color: white;
+color: black;
+padding: 10px;
+border-radius: 80px;
+}
+  
+
+
